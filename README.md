@@ -1,5 +1,6 @@
 # [Phantom*#5504](https://blueberry-hq.gq/)
 [![Discord Server](https://discordapp.com/api/guilds/719644379618213888/widget.png)](https://discord.gg/qRYubTF)
+[![Discord Bots](https://top.gg/api/widget/owner/719644379618213888.svg?noavatar=true)](https://top.gg/bot/712351071858720769)
 [![Twitter](https://img.shields.io/twitter/follow/pm_botDeveloper?style=flat-square)](https://twitter.com/pm_botDeveloper)
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-%23F96854)](https://www.patreon.com/BlueBerryBot)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PhantomDBD/PhantomDBD)
